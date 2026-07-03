@@ -8,6 +8,9 @@
 ### Deepfake Detection & Synthetic Media
 
 ## To Read
+- **EgoX** - Egocentric Video Generation from a Single Exocentric Video (Kang et al., CVPR 2026)
+- SyncLipMAE (Ling et al., ICLR 2026, arXiv 2510.10069)
+- **NAVA** – Native Audio-Visual Alignment for Generation (arXiv 2605.30073, May 2026)
 
 ## Completed
 ### Generative Multimodal Alignment
