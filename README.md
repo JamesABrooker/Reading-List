@@ -10,7 +10,12 @@
 
 ## To Read
 ### AIML339 Project Readings
-- 
+- A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild - Prajwal et al. (2020) · [link](https://doi.org/10.1145/3394171.3413532) *Core Paper - TOP PRIORITY*
+- Can One Model Fit All? An Exploration of Wav2Lip’s Lip-Syncing Generalizability Across Culturally Distinct Languages - Rafiei Oskooei et al. (2024) [link](https://doi.org/10.1007/978-3-031-65282-0_10)
+- Wav2Lip Bridges Communication Gap: Automating Lip Sync and Language Translation for Indian Languages - Venkataraghavan et al. (2025) · [link](https://doi.org/10.1109/ACCESS.2025.3562883)
+- Simple and Effective Zero-shot Cross-lingual Phoneme Recognition - Xu et al. (2021) · [link](arXiv:2109.11680)
+- Multimodal Visual Speech Recognition for Under-Resource Languages via Cross-Modal Learning and Large Language Models - Tapu et al. (2026) · [link]( https://doi.org/10.59277/ROMJIST.2026.1.05)
+- Phoneme-Level Visual Speech Recognition via Point-Visual Fusion and Language Model Reconstruction - 
 
 ### Other
 - **EgoX** - Egocentric Video Generation from a Single Exocentric Video (Kang et al., CVPR 2026)
@@ -24,3 +29,6 @@
 - **MuEx** - Su et al. (October 2025) · [arXiv 2510.06612](https://arxiv.org/html/2510.06612v1) *Recent model that takes audio-to-video alignment only, while provides new Talking Face Benchmark, vast improvement - however does not take into account linguistic content*
 ### Cross-Lingual & Multilingual Models
 ### Deepfake Detection & Synthetic Media
+
+### AIML339 Project Readings/Citations
+- **MuEx** - Su et al. (October 2025) · [arXiv 2510.06612](https://arxiv.org/html/2510.06612v1) *Recent model that takes audio-to-video alignment only, while provides new Talking Face Benchmark, vast improvement - however does not take into account linguistic content*
