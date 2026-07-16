@@ -13,7 +13,7 @@
 - A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild - Prajwal et al. (2020) · [link](https://doi.org/10.1145/3394171.3413532) *Core Paper - TOP PRIORITY*
 - Can One Model Fit All? An Exploration of Wav2Lip’s Lip-Syncing Generalizability Across Culturally Distinct Languages - Rafiei Oskooei et al. (2024) [link](https://doi.org/10.1007/978-3-031-65282-0_10)
 - Wav2Lip Bridges Communication Gap: Automating Lip Sync and Language Translation for Indian Languages - Venkataraghavan et al. (2025) · [link](https://doi.org/10.1109/ACCESS.2025.3562883)
-- Simple and Effective Zero-shot Cross-lingual Phoneme Recognition - Xu et al. (2021) · [link](arXiv:2109.11680)
+- Simple and Effective Zero-shot Cross-lingual Phoneme Recognition - Xu et al. (2021) · [link](https://doi.org/10.48550/arXiv.2109.11680)
 - Multimodal Visual Speech Recognition for Under-Resource Languages via Cross-Modal Learning and Large Language Models - Tapu et al. (2026) · [link]( https://doi.org/10.59277/ROMJIST.2026.1.05)
 
 ### Other
