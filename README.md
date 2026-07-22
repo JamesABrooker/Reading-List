@@ -16,6 +16,7 @@
 - Simple and Effective Zero-shot Cross-lingual Phoneme Recognition - Xu et al. (2021) · [link](https://doi.org/10.48550/arXiv.2109.11680)
 - Multimodal Visual Speech Recognition for Under-Resource Languages via Cross-Modal Learning and Large Language Models - Tapu et al. (2026) · [link]( https://doi.org/10.59277/ROMJIST.2026.1.05)
 - OLKAVS: AN OPEN LARGE-SCALE KOREAN AUDIO-VISUAL SPEECH DATASET - Park et al. (2025) · [link](https://arxiv.org/pdf/2301.06375)
+- SyncTalkFace: Talking Face Generation with Precise Lip-Syncing via Audio-Lip Memory - Park et al. (2022) · [link](https://arxiv.org/pdf/2211.00924)
 
 ### Other
 - **EgoX** - Egocentric Video Generation from a Single Exocentric Video (Kang et al., CVPR 2026)
